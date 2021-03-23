@@ -1,6 +1,6 @@
 .header{
 	height:200px;
-	background-image:url("../images/sparks.jpg");
+	background-image:url("sparks.jpg");
 	/*color:rgb(0,0,225);*/
 	color:orange;
 	
@@ -41,7 +41,7 @@
   display:block;
 }
 .container{
-	background-image:url("../images/BMW.jpg");
+	background-image:url("BMW.jpg");
 	
 	background-repeat:no-repeat;
 	background-size:cover;
