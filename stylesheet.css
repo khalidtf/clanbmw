@@ -1,0 +1,66 @@
+.header{
+	height:200px;
+	background-image:url("../images/sparks.jpg");
+	/*color:rgb(0,0,225);*/
+	color:orange;
+	
+	letter-spacing:20px;
+}
+.logo{
+	height:200px;
+	width:190px;
+	float:left;
+	
+}
+.full{
+	font-family: Lucida Grande;
+	font-size:20px;
+	font-variant-caps: petite-caps;
+	text-align:center;
+	margin-right:200px;
+	color:orange;
+	opacity:10;
+	text-shadow: 2px 2px 10px red;
+}
+
+.bmw{
+	font-size:60px;
+	opacity:10;
+	font-weight:bold;
+	font-family:fantasy;
+	text-align:center;
+	text-shadow: 2px 2px 5px red;
+	margin-right:200px;
+	
+	/*font-stretch:expanded;doubt*/
+}
+.bodyimage{
+	
+	width: 100%;
+  height: auto;
+  display:block;
+}
+.container{
+	background-image:url("../images/BMW.jpg");
+	
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-attachment:fixed;
+	
+	
+}
+form{
+		font-size:30px;
+		text-shadow:2px 2px 5px blue;
+		color:black;
+		font-weight:bold;
+}
+
+h2{
+	border:1px solid orange;
+	width:30%;
+	border-radius:30px;
+	text-align:center;
+	color:white;
+	text-shadow:2px 2px 5px blue;
+}
